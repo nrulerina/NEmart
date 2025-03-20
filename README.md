@@ -1,6 +1,6 @@
 # 🛒 NEmart Power BI Report
 <p align="center">
-  <img src="https://media.giphy.com/media/mr2dn3JGnlMGlHWv4N/giphy.gif?cid=790b7611lg46fna11on0t9abnlrbf7ophy7jgo1b7i95nyoz&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Power BI GIF" width="200">
+  <img src="https://media.giphy.com/media/mr2dn3JGnlMGlHWv4N/giphy.gif?cid=790b7611lg46fna11on0t9abnlrbf7ophy7jgo1b7i95nyoz&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Power BI GIF" width="450" height="220">
 </p>
 
 ## 📌 Project Overview  
